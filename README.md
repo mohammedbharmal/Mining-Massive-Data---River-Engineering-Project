@@ -1,6 +1,4 @@
-# Mining-Massive-Data---River-Engineering-Project
-
-# CPSC-8810-Mining-Massive-Data
+# CPSC-8810 Mining-Massive-Data---River-Engineering-Project
 
 Authors:
 
